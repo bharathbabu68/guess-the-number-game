@@ -24,9 +24,3 @@ The first player to correctly guess the number wins the round. The winner is awa
 
 ## Game Rounds
 Each game round is independent, and new rounds can be created and joined by players. The game continues to cycle through rounds, offering continuous play.
-
-## License
-This project is under the BSD-3-Clause-Clear License.
-
-## Disclaimer
-This game is a demonstration of blockchain technology applied in a gaming context. Participants should be aware of the risks and responsibilities involved in decentralized gaming on the Ethereum network.
